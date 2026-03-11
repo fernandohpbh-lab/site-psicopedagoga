@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Psicopedagoga Gisele Fagundes Peres Martins</title>
+
+<style>
+body{
+font-family: Arial;
+margin:0;
+background:#f4f8fb;
+}
+
+header{
+background:#6fa8dc;
+color:white;
+padding:30px;
+text-align:center;
+}
+
+nav{
+background:#4a86c5;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+font-weight:bold;
+}
+
+section{
+padding:40px;
+max-width:900px;
+margin:auto;
+}
+
+h2{
+color:#4a86c5;
+}
+
+.card{
+background:white;
+padding:20px;
+margin:15px 0;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+footer{
+background:#4a86c5;
+color:white;
+text-align:center;
+padding:20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Psicopedagoga</h1>
+<h2>Gisele Fagundes Peres Martins</h2>
+<p>Especialista em dificuldades de aprendizagem</p>
+</header>
+
+<nav>
+<a href="#sobre">Sobre</a>
+<a href="#servicos">Serviços</a>
+<a href="#agenda">Agenda</a>
+<a href="#materiais">Materiais</a>
+<a href="#contato">Contato</a>
+</nav>
+
+<section id="sobre">
+<h2>Sobre</h2>
+<div class="card">
+<p>Sou Psicopedagoga especializada no desenvolvimento da aprendizagem infantil. 
+Realizo avaliação e intervenção psicopedagógica para crianças com dificuldades escolares, TEA, TDAH, dislexia, discalculia e disortografia.</p>
+</div>
+</section>
+
+<section id="servicos">
+<h2>Serviços</h2>
+
+<div class="card">
+<h3>Avaliação Psicopedagógica</h3>
+<p>Investigação das dificuldades de aprendizagem.</p>
+</div>
+
+<div class="card">
+<h3>Intervenção Psicopedagógica</h3>
+<p>Sessões terapêuticas para desenvolvimento da leitura, escrita e raciocínio lógico.</p>
+</div>
+
+<div class="card">
+<h3>Relatórios Psicopedagógicos</h3>
+<p>Relatórios técnicos para escolas e profissionais da saúde.</p>
+</div>
+
+</section>
+
+<section id="agenda">
+<h2>Agendamento</h2>
+<p>Agende sua avaliação pelo WhatsApp.</p>
+
+<a href="https://wa.me/55SEUNUMERO">
+<button style="padding:15px;font-size:18px;background:#25d366;color:white;border:none;border-radius:10px;">
+Agendar pelo WhatsApp
+</button>
+</a>
+
+</section>
+
+<section id="materiais">
+<h2>Materiais Gratuitos</h2>
+
+<div class="card">
+<p>Atividades psicopedagógicas para crianças.</p>
+<a href="#">Baixar PDF</a>
+</div>
+
+<div class="card">
+<p>Rotina visual infantil.</p>
+<a href="#">Baixar PDF</a>
+</div>
+
+</section>
+
+<section id="contato">
+<h2>Contato</h2>
+
+<p><b>Psicopedagoga:</b> Gisele Fagundes Peres Martins</p>
+<p><b>CBO:</b> 2394-25</p>
+<p><b>Atendimento:</b> Belo Horizonte e região</p>
+
+</section>
+
+<footer>
+© 2026 Psicopedagoga Gisele Fagundes Peres Martins
+</footer>
+
+</body>
+</html>
+
+Se quiser, posso também montar uma versão mais moderna com cores profissionais e design clínico.
+
+
+---
+
+2. Logo profissional (ideia visual)
+
+Sugestão de logo usada por muitas clínicas de aprendizagem:
+
+Símbolo
+
+🧠 + 📚 + 🌱
+
+Significado:
+
+cérebro → aprendizagem
+
+livro → educação
+
+planta → desenvolvimento infantil
+
+
+Texto
+
+Gisele Fagundes Peres Martins
+Psicopedagoga
+Desenvolvendo o potencial de cada criança
+
+Cores profissionais
+
+azul claro (confiança)
+
+verde (desenvolvimento)
+
+branco (acolhimento)
+
+
+Se quiser, posso criar um logo profissional real para você usar em:
+
+Instagram
+
+relatórios
+
+site
+
+receituários
+
+
+
+---
+
+3. Frases profissionais para Instagram
+
+Frase 1
+
+🧠 Cada criança aprende de uma forma.
+Descobrir o caminho da aprendizagem transforma o futuro.
+
+
+---
+
+Frase 2
+
+A dificuldade de aprendizagem não define a criança.
+Com intervenção correta, ela descobre seu potencial.
+
+
+---
+
+Frase 3
+
+Aprender pode ser leve, lúdico e significativo.
+
+
+---
+
+Frase 4
+
+Psicopedagogia é compreender como a criança aprende.
+
+
+---
+
+Frase 5
+
+Por trás de cada dificuldade existe uma forma diferente de aprender.
+
+
+---
+
+4. Agenda online para pacientes
+
+Ferramentas gratuitas que funcionam muito bem:
+
+Calendly
+
+Google Calendar
+
+Doctoralia
+
+
+Sugestão simples:
+
+1. Criar agenda no Calendly
+
+
+2. Definir horários disponíveis
+
+
+3. Colocar link no site
+
+
+
+Exemplo:
+
+calendly.com/psicopedagogagisele
+
+Assim os pais marcam sozinhos.
+
+
+---
+
+5. Área para baixar materiais psicopedagógicos
+
+No site você pode criar seção:
+
+Materiais gratuitos
+
+✔ rotina visual
+✔ atividades de matemática
+✔ jogos de leitura
+✔ bingo matemático
+✔ atividades para TEA
+
+Exemplo:
+
+/materiais
+
+rotina-visual.pdf
+atividades-matematica.pdf
+jogo-leitura.pdf
+
+Isso ajuda muito a atrair pais pelo Google.
+
+
+---
+
+Ideia profissional que faz psicopedagogas lotarem agenda
+
+Criar no site:
+
+TESTE GRATUITO
+
+"Seu filho pode ter dificuldade de aprendizagem?"
+
+Perguntas:
+
+troca letras?
+
+dificuldade em matemática?
+
+demora para ler?
+
+
+Depois oferecer avaliação psicopedagógica.
+
+Isso aumenta muito pacientes.
+
+
+---
+
+✅ Se quiser, posso ainda criar para você:
+
+logo profissional pronto
+
+site mais bonito (nível clínica particular)
+
+30 posts prontos para Instagram
+
+10 materiais psicopedagógicos gratuitos para seu site
+
+modelo de agenda automática para pacientes
